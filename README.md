@@ -1,3 +1,3 @@
 # DemocracyLab
 
-This repository is my work for DemocracyLab.org, a national nonprofit organization working to scale tech for good campaigns. 
+A code dump for my work with DemocracyLab.org, a national nonprofit organization working to scale projects using tech for good. 
